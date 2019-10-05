@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Ghost\Desktop\Quake Report App\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Ghost\Desktop\Quake Report App\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_cc09b34bd00232b1eeffc0b3ed2690253f436c2b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ghost\Desktop\Quake Report App\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Ghost\Desktop\Quake Report App\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_b4079cf619585e8ef3057e35dac1713766371b62.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ghost\Desktop\Quake Report App\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\Ghost\Desktop\Quake Report App\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_4809d2f14d9f524c607097f7d8fc4da2e6fc3c06.jar" />
+    </item>
+    <item
+        jar="D:\Android_Studio\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Ghost\Desktop\Quake Report App\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_2102e34e0d8eae05299ab38fab7d02d05dd2b8f5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ghost\Desktop\Quake Report App\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\Ghost\Desktop\Quake Report App\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_58e756674dcb0ce42e65be5ff01f63a8fca13c18.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ghost\Desktop\Quake Report App\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\Ghost\Desktop\Quake Report App\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_883d6861767e0409bc162389f2daacd1beb36437.jar" />
+    </item>
+
+</items>
